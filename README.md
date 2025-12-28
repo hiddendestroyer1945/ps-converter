@@ -25,7 +25,7 @@ Install the necessary dependencies and clone the repository:
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 git
-git clone https://github.com/hiddendestroyer1945/code-projects.git
+git clone https://github.com/hiddendestroyer1945/ps-converter.git,
 cd ps-converter/
 ```
 
